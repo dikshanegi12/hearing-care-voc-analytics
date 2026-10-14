@@ -28,13 +28,13 @@ Which parts of the clinic experience make clinics unhappy, and which clinics sho
 ## Dashboard
 
 **Overview**: headline KPIs, NPS by region, promoter / passive / detractor split
-![Overview](overview.png.png)
+![Overview](overview.png)
 
 **Drivers**: repair days vs NPS, repair wait by NPS group, % difficult by touchpoint
-![Drivers](drivers.png.png)
+![Drivers](drivers.png)
 
 **Action List**: detractors who agreed to follow-up, with red flags on long repairs and order delays
-![Action List](action%20list.png.png)
+![Action List](action%20list.png)
 
 ## How I built it
 
